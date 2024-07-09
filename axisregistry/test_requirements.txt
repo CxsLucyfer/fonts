@@ -3,3 +3,4 @@ coverage>=5
 black
 isort
 flake8-bugbear
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
